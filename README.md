@@ -23,5 +23,6 @@ The crypto currency Dogecoin’s price has seen great fluctuations in April and 
 ### Sentiments using comparison of the two events using VADER Analysis:
 <img width="908" alt="Screen Shot 2022-01-25 at 9 18 15 AM" src="https://user-images.githubusercontent.com/69894872/150993854-2ef15c3a-e080-42f6-a210-95ebe9bf8b23.png">
 
+## Conclusion:
 From our analysis we concluded that, the negative sentiments have risen in number, but the positive tweets have not seen much change, with an overall increase in negative sentiments of the audience, as the doge price went down after May 8th, 2021.
 
