@@ -1,4 +1,4 @@
-# Elon_Musk-Doge-Tweet_Analysis
+# Elon Musk Doge Tweet Analysis (2021 April-May)
 
 The crypto currency Dogecoin’s price has seen great fluctuations in April and May of 2021. Our study tries to observe the trends in twitter sentiments and the significant impact of Elon Musk’s twitter activity on Dogecoin over a series of two events. <b>Two such event’s</b> we analyzed is when, <b>after Elon Musk claimed via Twitter that “SpaceX is going to put a literal Dogecoin on the literal moon” </b>and <b>later called himself “DogeFather” as he announced publicly that he would be hosting the Saturday Night Live on 8 May 2021.</b>
 <ul>By doing sentiment analysis using Textblob on relevant tweets before Musk’s tweet , during the period between his tweet and his actual appearance on the show and after the show , we found that Tweet volume , twitter sentiments and Google trends collectively play as predictor variables of price direction.</ul>
@@ -6,7 +6,11 @@ The crypto currency Dogecoin’s price has seen great fluctuations in April and 
 
 <img width="552" alt="Screen Shot 2022-01-25 at 9 11 28 AM" src="https://user-images.githubusercontent.com/69894872/150992816-deed8140-a29e-4706-ad0b-5758a083bebc.png">
 
-## We visualize a comparison between the sentiments of the two events:
+## We are focusing on tweets of Elon Musk and tweets with #Doge, #Elonmusk and other hashtangs relevant to the event of DOge Hype in April and May
+<img width="1161" alt="Screen Shot 2022-01-25 at 9 26 26 AM" src="https://user-images.githubusercontent.com/69894872/150995189-3cca2aae-e890-421b-b73b-f526986b66dc.png">
+
+
+## We visualized a comparison between the sentiments of the two events:
 
 ### Word cloud of the two events is show below:
 <img width="824" alt="Screen Shot 2022-01-25 at 9 17 35 AM" src="https://user-images.githubusercontent.com/69894872/150993845-7c2fed7a-1a23-4c75-847a-6561693a5639.png">
@@ -18,3 +22,6 @@ The crypto currency Dogecoin’s price has seen great fluctuations in April and 
 
 ### Sentiments using comparison of the two events using VADER Analysis:
 <img width="908" alt="Screen Shot 2022-01-25 at 9 18 15 AM" src="https://user-images.githubusercontent.com/69894872/150993854-2ef15c3a-e080-42f6-a210-95ebe9bf8b23.png">
+
+From our analysis we concluded that, the negative sentiments have risen in number, but the positive tweets have not seen much change, with an overall increase in negative sentiments of the audience, as the doge price went down after May 8th, 2021.
+
