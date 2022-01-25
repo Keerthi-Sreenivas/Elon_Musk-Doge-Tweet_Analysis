@@ -10,7 +10,9 @@ We visualize a comparison between the sentiments of the two events:
 
 Word cloud of the two events is show below:
 <img width="824" alt="Screen Shot 2022-01-25 at 9 17 35 AM" src="https://user-images.githubusercontent.com/69894872/150993845-7c2fed7a-1a23-4c75-847a-6561693a5639.png">
+<br>
 Sentiments comparison of the two events using text blob:
 <img width="1059" alt="Screen Shot 2022-01-25 at 9 18 05 AM" src="https://user-images.githubusercontent.com/69894872/150993849-d2eb5eeb-e524-42ab-9d59-749fdc881e2f.png">
+<br>
 Sentiments using comparison of the two events using VADER Analysis:
 <img width="908" alt="Screen Shot 2022-01-25 at 9 18 15 AM" src="https://user-images.githubusercontent.com/69894872/150993854-2ef15c3a-e080-42f6-a210-95ebe9bf8b23.png">
