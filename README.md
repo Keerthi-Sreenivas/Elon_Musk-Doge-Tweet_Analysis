@@ -6,7 +6,7 @@ The crypto currency Dogecoin’s price has seen great fluctuations in April and 
 
 <img width="552" alt="Screen Shot 2022-01-25 at 9 11 28 AM" src="https://user-images.githubusercontent.com/69894872/150992816-deed8140-a29e-4706-ad0b-5758a083bebc.png">
 
-## We are focusing on tweets of Elon Musk and tweets with #Doge, #Elonmusk and other hashtangs relevant to the event of DOge Hype in April and May
+## We are focusing on tweets of Elon Musk and tweets with #Doge, #Elonmusk and other hashtangs relevant to the event of Doge Hype in April and May
 <img width="1161" alt="Screen Shot 2022-01-25 at 9 26 26 AM" src="https://user-images.githubusercontent.com/69894872/150995189-3cca2aae-e890-421b-b73b-f526986b66dc.png">
 
 
